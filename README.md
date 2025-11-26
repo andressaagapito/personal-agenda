@@ -10,7 +10,10 @@ Aplicação web moderna para gerenciamento de compromissos com agendamento manua
 - 🌙 Modo escuro/claro
 - 📱 Design responsivo
 
+## 💼 Protótipo
 
+- 💻 Figma: https://bit.ly/3MnJ72Z
+ㅤㅤ 
 ## 🛠️ Tecnologias
 
 - React 18
