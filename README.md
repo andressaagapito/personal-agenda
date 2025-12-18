@@ -40,10 +40,10 @@ src/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/Agenda.git
+git clone https://github.com/seu-usuario/personal-agenda.git
 
 # Entre no diretório
-cd Agenda
+cd personal-agenda
 
 # Instale as dependências
 npm install
